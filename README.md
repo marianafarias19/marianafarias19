@@ -1,5 +1,3 @@
-![Header](./your-header-image-name.png)
-
 ### <div align="center">Mariana Farias
 
  Desenvolvedora em formação | 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💡 Apaixonada por aprender e criar soluções simples que ajudam no dia a dia.</div>  
@@ -41,8 +39,6 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -58,28 +54,10 @@
 </div>  
   
 
-<br/>  
-
 
 ## Github Stats  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=marianafarias19&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafarias19&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
   
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
