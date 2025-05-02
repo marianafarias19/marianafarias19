@@ -1,4 +1,4 @@
-### <div align="center">Mariana Farias
+### <div align="center">Olá! Me chamo Mariana Farias💻
 
  Desenvolvedora em formação | 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💡 Apaixonada por aprender e criar soluções simples que ajudam no dia a dia.</div>  
   
@@ -22,8 +22,11 @@
 <br/>  
 
 
-## My Skills
-<table><tr><td valign="top" width="33%">
+
+
+###
+
+
 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -40,24 +43,18 @@
 </div>
 
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mariana-farias-" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/marianafarias19" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/mariana.farias__/?next=%2F" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<br/>
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=marianafarias19&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafarias19&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=marianafarias19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianafarias19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
+</div>
 
-  
